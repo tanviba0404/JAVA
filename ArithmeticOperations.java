@@ -8,16 +8,16 @@ import java.util.Scanner;
 	 {
 		 Scanner sc = new Scanner(System.in);
 		 System.out.println("Enter first no.: ");
-		 double num1 = sc.nextDouble();
+		 int num1 = sc.nextInt();
 		  
 		  System.out.println("Enter second no.: ");
-		 double num2 = sc.nextDouble();
+		  int num2 = sc.nextInt();
 		 
-		 double addition = num1 + num2;
-		 double subtraction = num1 - num2;
-		 double multiplication = num1 * num2;
-		 double divison = num1 / num2;
-		 double modulus = num1 % num2;
+		 int addition = num1 + num2;
+		 int subtraction = num1 - num2;
+		 int multiplication = num1 * num2;
+		 int divison = num1 / num2;
+		 int modulus = num1 % num2;
 		 
 		  System.out.println("Addition : " + addition);
 		  System.out.println("Subtraction : " + subtraction);
