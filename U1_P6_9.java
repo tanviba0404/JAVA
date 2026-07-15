@@ -10,7 +10,9 @@ import java.util.Scanner;
 					   
 					   System.out.println("Enter name:");
 					   String name = scn.nextLine();
-					    
+
+				       System.out.println("How many times:");
+					   int n = scn.nextInt();
 					
 					   int i=1;
 					   do
