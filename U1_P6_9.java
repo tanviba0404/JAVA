@@ -17,7 +17,7 @@ import java.util.Scanner;
 					   {
 						   System.out.println(name);
 						   i++;
-					   }while(i<=n)
+					   }while(i<=n);
 					  
 					scn.close();
 			   }
