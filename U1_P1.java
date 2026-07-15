@@ -1,3 +1,4 @@
+//1 Write a simple java program to display message.
 class hello
 
 {  
