@@ -17,7 +17,7 @@ import java.util.Scanner;
 					   {
 						   System.out.println("Name :" + name);
 						   i++;
-					   }while(i<=10)
+					   }while(i<=10);
 					  
 					scn.close();
 			   }
