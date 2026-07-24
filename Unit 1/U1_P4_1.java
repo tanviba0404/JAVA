@@ -1,6 +1,6 @@
 //4.1 Write a java program to perform different arithmetic operations.(Using Command Line args).
 
-class cmdLNInput
+class U1_P4_1
 {
 	public static void main(String args[])
 	{
