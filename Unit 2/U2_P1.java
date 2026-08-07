@@ -1,3 +1,5 @@
+//Write a java program to use simple inheritance.
+
 class Animal{
     String name = "Animal";
     void eat (){
