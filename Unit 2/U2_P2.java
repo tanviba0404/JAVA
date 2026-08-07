@@ -1,3 +1,5 @@
+//Write a java program to use multi-level inheritance.
+
 class Animal{
     String name = "Animal";
     void eat (){
