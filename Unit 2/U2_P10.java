@@ -10,8 +10,8 @@ public class U2_P10{
 		this.name = name;
 	}
 	public static void main(String[] args){
-		encapsuleEx emp = new encapsuleEx();
-		emp.setName("yuvraj");
+		U2_P10 emp = new U2_P10();
+		emp.setName("Tanviba");
 		System.out.println("Employee Name :" + emp.getName());
 	}
 		
