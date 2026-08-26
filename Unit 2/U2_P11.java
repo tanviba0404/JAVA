@@ -1,13 +1,12 @@
+//Write a java program to perform overriding of abstract class.
 abstract class Animal
 {
-    
     abstract void sound();
 }
 
 
 class Dog extends Animal
 {
-    // Overriding abstract method
     void sound()
     {
         System.out.println("Dog barks");
