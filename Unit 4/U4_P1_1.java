@@ -1,3 +1,4 @@
+// Write a java program to create a thread using Thread Class.
 class Tanviba extends Thread
 {
     public void run()
