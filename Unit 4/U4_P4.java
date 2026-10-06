@@ -1,3 +1,4 @@
+// Write a java program to join two threads which perform loop operations..
 class LoopThread extends Thread
 {
     private int iterations;
