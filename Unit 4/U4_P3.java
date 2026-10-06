@@ -1,3 +1,4 @@
+// Write a java program to set Thread name and priority & test it..
 class MyThread extends Thread
 {
     public void run()
