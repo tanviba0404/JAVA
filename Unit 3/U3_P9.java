@@ -1,4 +1,4 @@
-
+// Write a java program to implement Exception Chaining.
 class MyException extends Exception
 {
     public MyException(String message)
