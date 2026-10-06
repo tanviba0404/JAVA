@@ -1,3 +1,4 @@
+// Write a java program to create two threads and make them Synchronized (Thread Safe).
 class MySyncThread extends Thread
 {
     private String threadName;
