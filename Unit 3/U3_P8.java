@@ -1,4 +1,4 @@
-//Exception pro
+// Write a java program to implement Exception Propagation.
 
 public class U3_P8
 {
