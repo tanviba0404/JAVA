@@ -1,3 +1,4 @@
+// Write a java program to create a thread using Runnable class.
 class Tanvi implements Runnable
 {
     public void run()
