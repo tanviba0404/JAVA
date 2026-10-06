@@ -1,3 +1,4 @@
+// Write a java program to implement Arithmetic Exception.
 public class U3_P2
 {
     public static void main(String[] args)
